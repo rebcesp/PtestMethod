@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Rebcesp'
+project = 'REBCESP'
 copyright = '2020'
-author = 'Rebcesp'
+author = 'REBCESP'
 
 # The short X.Y version
 version = ''
