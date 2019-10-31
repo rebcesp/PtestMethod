@@ -7,6 +7,7 @@ Documentación RedTeam - Pentesting - Malware
 ========================================
 
 .. image:: img/logo_rebcesp.png
+   :align: center
 
 This Repo will be my knowledge database about Pentesting skills. It has been inspired by https://bitvijays.github.io And some of the content will be the same as a starting point.
 
