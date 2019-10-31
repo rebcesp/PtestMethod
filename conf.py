@@ -21,10 +21,10 @@
 
 project = 'REBCESP'
 copyright = '2020'
-author = 'REBCESP'
+author = 'Guillermo R.'
 
 # The short X.Y version
-version = ''
+version = '1.0'
 # The full version, including alpha/beta/rc tags
 release = '1'
 
