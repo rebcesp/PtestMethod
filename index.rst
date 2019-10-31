@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Rebcesp documentation!
+Documentación RedTeam - Pentesting - Malware
 ========================================
 
-.. image:: img/logo_rebcesp.jpg
+.. image:: img/logo_rebcesp.png
 
 This Repo will be my knowledge database about Pentesting skills. It has been inspired by https://bitvijays.github.io And some of the content will be the same as a starting point.
 
