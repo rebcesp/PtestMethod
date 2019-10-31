@@ -9,12 +9,12 @@ Documentación RedTeam - Pentesting - Malware
 .. image:: img/logo_rebcesp.png
    :align: center
 
-Este repositorio esta basado en diferentes fuentes uno de ellos  en el libro de la gran hacker Georgia Weidman llamado **Penetration Testing: A Hands-on Introduction to Hacking** , tambien basado en lo que he aprendido en cursos de RedTeam de la academia **Securizame**, el gran tema y mas divertido Malware esta basado en el Libro **Analisis de Malware en Windows**
+Este repositorio esta basado en diferentes fuentes uno de ellos  en el libro de la gran hacker Georgia Weidman llamado **Penetration Testing: A Hands-on Introduction to Hacking** , tambien basado en lo que he aprendido en cursos de RedTeam de la academia **Securizame**, el gran tema y mas divertido Malware esta basado en el Libro **Analisis de Malware en Windows** 
 
-Muchas cosas tambien de las que escribire y explicaré es de forma *autodidacta*
+Muchas cosas tambien de las que escribire y explicaré es de forma *autodidacta*, espero que te guste mucho y aprendas descomunalmente!
 
 #####################
-The Essentials Series
+Introducción
 #####################
 
 The Essentials Series covers the essential concepts/ skills for somebody who wants to enter the field of CyberSecurity.
@@ -24,7 +24,7 @@ The Essentials Series covers the essential concepts/ skills for somebody who wan
 
 .. toctree::
    :maxdepth: 2
-   :caption: The Essentials
+   :caption: Introducción
 
    LFF-ESS-P0A-CyberSecurityEnterprise
    LFF-ESS-P0B-LinuxEssentials
@@ -47,7 +47,7 @@ The Infrastructure Pentest Series cover all the phases of Infrastructure Pentest
 
 .. toctree::
    :maxdepth: 2
-   :caption: Pentest Stages
+   :caption: Metodología Pentesting 
 
    LFF-IPS-P1-IntelligenceGathering
    LFF-IPS-P2-VulnerabilityAnalysis
