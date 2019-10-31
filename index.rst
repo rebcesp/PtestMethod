@@ -9,9 +9,9 @@ Documentación RedTeam - Pentesting - Malware
 .. image:: img/logo_rebcesp.png
    :align: center
 
-This Repo will be my knowledge database about Pentesting skills. It has been inspired by https://bitvijays.github.io And some of the content will be the same as a starting point.
+Este repositorio esta basado en diferentes fuentes uno de ellos  en el libro de la gran hacker Georgia Weidman llamado **Penetration Testing: A Hands-on Introduction to Hacking** , tambien basado en lo que he aprendido en cursos de RedTeam de la academia **Securizame**, el gran tema y mas divertido Malware esta basado en el Libro **Analisis de Malware en Windows**
 
-Always keep in mind when you have a problem just launch a search over internet about it, 99 % of the time the comunity already sollved this issue.
+Muchas cosas tambien de las que escribire y explicaré es de forma *autodidacta*
 
 #####################
 The Essentials Series
