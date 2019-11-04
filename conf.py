@@ -105,6 +105,8 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+html_logo = 'img/logo_rebcesp.png'
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
