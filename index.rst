@@ -47,7 +47,7 @@ The Infrastructure Pentest Series cover all the phases of Infrastructure Pentest
 
 .. toctree::
    :maxdepth: 2
-   :caption: Metodología Pentesting 
+   :caption: PentestingDoc
 
    LFF-IPS-P1-IntelligenceGathering
    LFF-IPS-P2-VulnerabilityAnalysis
