@@ -31,7 +31,7 @@ The Essentials Series covers the essential concepts/ skills for somebody who wan
 
 
 #############################
-Infrastructure Pentest Series
+Metodología Pentesting
 #############################
 
 The Infrastructure Pentest Series cover all the phases of Infrastructure Pentest as described by
