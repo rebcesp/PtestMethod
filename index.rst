@@ -19,7 +19,7 @@ Introducción
 
 The Essentials Series covers the essential concepts/ skills for somebody who wants to enter the field of CyberSecurity.
 
-- :doc:`CyberSecurity in an Enterprise <LFF-ESS-P0A-CyberSecurityEnterprise>` : IT Technical challenges faced by a company during their transformation from a start-up of two people growing to Micro, Small, Medium-sized, larger size company and their solutions.
+- :doc:`Puntos Importantes <PuntosImportantes>` : IT Technical challenges faced by a company during their transformation from a start-up of two people growing to Micro, Small, Medium-sized, larger size company and their solutions.
 - :doc:`Linux Basics <LFF-ESS-P0B-LinuxEssentials>` : Essential linux commands and concepts required in the Infosec field.
 
 .. toctree::
