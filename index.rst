@@ -26,7 +26,7 @@ The Essentials Series covers the essential concepts/ skills for somebody who wan
    :maxdepth: 2
    :caption: Introducción
 
-   LFF-ESS-P0A-CyberSecurityEnterprise
+   PuntosImportantes
    LFF-ESS-P0B-LinuxEssentials
 
 
